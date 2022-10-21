@@ -1,0 +1,27 @@
+header{
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 32px;
+
+width: 1280px;
+height: 44px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+   
+
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    color: #667085;
+    
+}

@@ -1,0 +1,23 @@
+.sec6{
+  width: 180vh;
+  margin-left: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(195, 25, 25, 0.03);
+  border-radius: 16px;
+}
+.h3sec6{
+    font-size: 14px;
+}
+.h1sec6{
+    font-size: 36px;
+}
+.h2sec6{
+    font-size: 16px;
+}
+.psec6{
+font-size: 14px;
+
+}
